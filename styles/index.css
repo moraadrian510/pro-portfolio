@@ -9,9 +9,8 @@ body {
   font-size: 1em;
   color: white;
   justify-content: space-between;
-  background-color: rgb(80, 121, 223);
+  background-image: url(/images/banner2.jpg);
   min-height: 12em;
-  box-shadow: 1px 10px 10px rgb(80, 121, 223);
   border-bottom: 7px solid rgb(4, 4, 4);
 }
 
