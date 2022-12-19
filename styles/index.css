@@ -156,8 +156,9 @@ body {
 
 .contact-me {
   display: flex;
+  flex-wrap: wrap;
+  position: absolute;
   justify-content: space-between;
-  position:absolute;
   background-image: url(/images/banner2.jpg);
   height: 30em;
   width: 100%;
@@ -181,12 +182,14 @@ body {
 .contact-info {
   width: auto;
   display: flex;
-
 }
 
 .contact-info p {
-  margin-right: 5em;
-  font-size: 1.6em;
+  font-size: 2em;
+  width: fit-content;
+  color: rgb(134, 132, 132);
+  font-weight: bold;
+  text-shadow: 1px 1px rgb(211, 43, 194);
 }
 
 /* this brightens the section on hover state*/
@@ -196,11 +199,16 @@ body {
   text-shadow: 5px 3px   2px rgb(12, 12, 11);
 }
 
-/* header media query */
+/* Resume Sectiion */
 
-@media screen and (max-width: 980px;) {
-  .nav-links {
-    display: flex;
-    flex-wrap:wrap;
-  }
+.resume-parent {
+  display: flex;
+  flex-wrap: wrap;
+
+  background-size:contain;
+  height: 50em;
+  width: 400px;
+  position: absolute;
+  background-image: url(/images/under-cons.jpg);
+  background-repeat: no-repeat; 
 }
