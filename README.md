@@ -9,7 +9,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-
+    ![portfolio](/images/screenshot.png)
 <!-- TODO: Add a screenshot of the live project.
     1. Link to a 'live demo.'
     2. Describe your overall experience in a couple of sentences.
