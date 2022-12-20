@@ -234,7 +234,7 @@ body {
 /* footer */
 .footer {
   display: flex;
-  height: 10vh;
+  height: 5vh;
   justify-content: center;
   align-items: center;
   border-top: 3px solid white ;
