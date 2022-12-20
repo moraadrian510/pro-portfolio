@@ -9,7 +9,11 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
+<<<<<<< HEAD
     
+=======
+   
+>>>>>>> 2cb00a1 (read me update2)
    <img src="images/screenshot.png" width="400">
    
    [portfolio live web page](https://moraadrian510.github.io/pro-portfolio/)
@@ -17,6 +21,7 @@
     I definiteley had fun creating this project,
     In this project i learned from mistakes using flexbox and my positioning. Due to time connstraints i 
     was not able to change as much as i would have liked to ,but it will carry on to future projects.
+<<<<<<< HEAD
     /lph7.∆hytv 
 .=;p8J?imijnuum/l['m,l… 'live demo.'
     2. Describe your overall experience in a couple of sentences.
@@ -24,6 +29,9 @@
     4. Share any other tips or guidance for others attempting this or something similar.
 
 
+=======
+    
+>>>>>>> 2cb00a1 (read me update2)
 ### Built With
 
      1. HTML
