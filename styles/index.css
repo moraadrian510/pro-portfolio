@@ -144,7 +144,7 @@ body {
 
 .image-1:hover {
  transition: 900ms;
- height: 32em;
+ height: 30em;
  background-color: rgb(61, 60, 61);
  background-color: rgb(80, 121, 
  223);
@@ -190,22 +190,56 @@ body {
   text-shadow: 1px 1px rgb(211, 43, 194);
 }
 
-/* this brightens the section on hover state*/
+/*  brightens the section on hover state*/
 .contact-me:hover {
   transition: 1s;
   filter: brightness(2);
   text-shadow: 5px 3px   2px rgb(12, 12, 11);
 }
 
+
 /* Resume Sectiion */
 
 .resume-parent {
+  align-items: center;
+  justify-content: center;
+  background-image: url(/images/under-cons.jpg);
   display: flex;
   flex-wrap: wrap;
+  height: 40vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 
-  background-size:contain;
-  height: 50em;
-  width: 400px;
-  background-image: url(/images/under-cons.jpg);
-  background-repeat: no-repeat; 
+.resume-text {
+  color: white;
+  font-size: 12em;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Kenia', cursive;
+  text-shadow: 2px 2px 8px rgb(14, 14, 15);
+}
+
+.resume-text:hover {
+  color: rgb(231, 112, 9);
+  transition:0.5s;
+}
+
+.resume-parent:hover {
+ filter: brightness(1.3);
+ transition: 1s;
+}
+
+/* footer */
+.footer {
+  display: flex;
+  height: 10vh;
+  justify-content: center;
+  align-items: center;
+  border-top: 3px solid white ;
+}
+
+.footer-text {
+  color: aqua;
 }
