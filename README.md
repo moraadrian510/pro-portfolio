@@ -16,7 +16,8 @@
    [portfolio live web page](https://moraadrian510.github.io/pro-portfolio/)
    
     I definiteley had fun creating this project,
-    In this project i learned from mistakes using flexbox and my positioning. Due to time connstraints i was not able to change as much as i would have         liked to ,but it will carry on to future projects.
+    In this project i learned from mistakes using flexbox and my positioning. Due to time connstraints i 
+    was not able to change as much as i would have liked to ,but it will carry on to future projects.
     
 ### Built With
 
