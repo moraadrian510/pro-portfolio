@@ -114,7 +114,6 @@ body {
   223); 
   height: 20emem;
   border: 3px solid black;
-  position:absolute;
   top:28.5em;
   width: 100%;
   background-color: rgb(6, 5, 5);
@@ -157,12 +156,11 @@ body {
 .contact-me {
   display: flex;
   flex-wrap: wrap;
-  position: absolute;
+ 
   justify-content: space-between;
   background-image: url(/images/banner2.jpg);
   height: 30em;
   width: 100%;
-  margin-top: 61em;
   border-top: 5px solid white;
   border-bottom: 5px solid white;
   filter: brightness(1.5);
@@ -208,7 +206,6 @@ body {
   background-size:contain;
   height: 50em;
   width: 400px;
-  position: absolute;
   background-image: url(/images/under-cons.jpg);
   background-repeat: no-repeat; 
 }
