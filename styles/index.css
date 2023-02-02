@@ -105,6 +105,7 @@ body {
 
 .col-content{
   width: 80%;
+  display: flex;
 }
            /* work section */
 .work-section {
@@ -136,9 +137,8 @@ body {
 .image-1 {
   height: 30em;
   filter: grayscale(55%);
-  padding-right: 40em;
   padding-top: 1.5em;
-  padding-left: 25em;
+  
   filter: brightness(1);
 }
 
